@@ -1,0 +1,1 @@
+This is Akite's first git project!
